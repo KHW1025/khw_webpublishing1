@@ -145,7 +145,7 @@ a {
 /* ////////// MAIN VISUAL 영역 ////////// */
 .banner {
   height: 450px;
-  background-image: url(/img/bg1.jpg);
+  background-image: url(../img/bg1.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
