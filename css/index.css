@@ -579,3 +579,11 @@ a {
     width: 40%;
   }
 }
+@media (max-width: 370px) {
+  .banner_detail h1 {
+    font-size: 2rem;
+  }
+  .banner_detail p {
+    font-size: 1rem;
+  }
+}
